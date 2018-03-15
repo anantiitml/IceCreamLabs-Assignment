@@ -4,4 +4,4 @@
 
 Model 1 ---
 
-![alt text](https://raw.githubusercontent.com/anantiitml/IceCreamLabs-Assignment/blob/master/block.png)
+![alt text](https://github.com/anantiitml/IceCreamLabs-Assignment/blob/master/block.png)
