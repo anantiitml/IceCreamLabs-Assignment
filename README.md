@@ -35,9 +35,9 @@ Further we can improve on scores by not taking in to account the words which doe
 
 Model 1 -------
 
-1. Convetional layer (detect features in image matrix)
+1. Convolutional layer (detect features in image matrix)
 2. Pooling layer (recongise features in different angle and/or size)
-3. Convetional layer
+3. Convolutional layer
 4. Pooling layer
 5. Flattening layer (flatten layers in array of imput)
 6. Full connected layer (full connected ANN)
@@ -51,11 +51,11 @@ As seen from the figure the validation accuracy tracks the training accuracy fai
 
 Model 2 ----
 
-1. Convetional layer (detect features in image matrix)
+1. Convolutional layer (detect features in image matrix)
 2. Pooling layer (recongise features in different angle and/or size)
-3. Convetional layer
+3. Convolutional layer
 4. Pooling layer
-5. Convetional layer
+5. Convolutional layer
 6. Pooling layer
 7. Flattening layer (flatten layers in array of imput)
 8. Full connected layer (full connected ANN)
